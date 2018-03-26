@@ -33,7 +33,7 @@
 | Web 0216      | 
 | iOS 0216      |   
 | Web 1115      | Greenlights                  |
-| Web 0915      | Hastronauts                  |
+| Web 0915      | Hashtronauts                  |
 | iOS 0915      | 
 | Web 0515      |               
 | Web 0715      | Foo Tang                     |
