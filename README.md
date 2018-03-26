@@ -4,7 +4,7 @@
 |  Cohort       | Name                      |
 | ------------- | ------------------------- | 
 | DC Web 031218 |  
-| NY Web 031218 |  
+| NY Web 031218 |  Arrested Developers
 | Web 022018    |  
 | Web 012918    |  
 | Web 010818    |  
