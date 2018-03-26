@@ -12,7 +12,7 @@
 | Web 112017    |  
 | Web 103017    | Ba$h Better Have My Money |
 | Web 100917    |  
-| Web 100917    |  
+| Web 100917    | Mom's Favorite Cohort     |
 | Web 082817    | Grim Repos
 | Web 062617    |  
 | Web 051517    |  
