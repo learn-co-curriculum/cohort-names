@@ -38,11 +38,11 @@
 | Web 0515      |               
 | Web 0715      | Foo Tang                     |
 | Web 0415      | Octocats                     |
-| Ruby-007      | 
-| Ruby-006      | 
-| Ruby-005      | 
-| Ruby-004      | 
-| Ruby-003      | 
-| Ruby-002      | 
-| Ruby-001      | 
-| Ruby-000      | 
+| Ruby 007      | 
+| Ruby 006      | 
+| Ruby 005      | 
+| Ruby 004      | 
+| Ruby 003      | 
+| Ruby 002      | 
+| Ruby 001      | 
+| Ruby 000      | 
