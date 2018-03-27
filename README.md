@@ -4,10 +4,10 @@
 |  Cohort       | Name                         |
 | ------------- | ---------------------------- | 
 | DC Web 031218 |  
-| NY Web 031218 |  Arrested Developers         | 
-| Web 022018    | 
+| NY Web 031218 | Arrested Developers          | 
+| Web 022018    | Boby Tables                  |
 | Web 012918    |  
-| Web 010818    |  GitLit                      |
+| Web 010818    | GitLit                       |
 | Web 121117    |  
 | Web 112017    | Binding.cry                  |
 | Web 103017    | Ba$h Better Have My Money    |
