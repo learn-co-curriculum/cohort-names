@@ -6,7 +6,7 @@
 | DC Web 031218 |  
 | NY Web 031218 | Arrested Developers          | 
 | Web 022018    | Boby Tables                  |
-| Web 012918    |  
+| Web 012918    | Michelle Rebranch            | 
 | Web 010818    | GitLit                       |
 | Web 121117    |  
 | Web 112017    | Binding.cry                  |
@@ -33,7 +33,7 @@
 | Web 0216      | 
 | iOS 0216      |   
 | Web 1115      | Greenlights                  |
-| Web 0915      | Hashtronauts                  |
+| Web 0915      | Hashtronauts                 |
 | iOS 0915      | 
 | Web 0515      |               
 | Web 0715      | Foo Tang                     |
