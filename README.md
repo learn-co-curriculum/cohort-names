@@ -35,8 +35,8 @@
 | Web 1115      | Greenlights                  |
 | Web 0915      | Hashtronauts                 |
 | iOS 0915      | 
-| Web 0515      |               
 | Web 0715      | Foo Tang                     |
+| Web 0515      |               
 | Web 0415      | Octocats                     |
 | Ruby 007      | 
 | Ruby 006      | 
