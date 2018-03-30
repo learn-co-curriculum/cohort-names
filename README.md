@@ -5,10 +5,10 @@
 | ------------- | ---------------------------- | 
 | DC Web 031218 |  
 | NY Web 031218 | Arrested Developers          | 
-| Web 022018    | Boby Tables                  |
+| Web 022018    | Bobby Tables                 |
 | Web 012918    | Michelle Rebranch            | 
 | Web 010818    | GitLit                       |
-| Web 121117    |  
+| Web 121117    | CRUD                         |
 | Web 112017    | Binding.cry                  |
 | Web 103017    | Ba$h Better Have My Money    |
 | Web 100917    | Mom's Favorite Cohort        |
