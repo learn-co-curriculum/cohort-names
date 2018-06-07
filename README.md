@@ -3,7 +3,7 @@
 
 |  Cohort          | Name                         |
 | ---------------- | ---------------------------- | 
-| Dumbo Web 051418 |
+| Dumbo Web 051418 | Straight Outta Terminal
 | NY Web 051418    | Garbage Collectors           | 
 | DC Web 042318    | Name Undefined               |
 | Dumbo Web 042318 |
