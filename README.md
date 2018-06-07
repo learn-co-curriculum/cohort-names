@@ -37,8 +37,8 @@
 | Web 0216         | 
 | Web 1115         | Greenlights                  
 | Web 0915         | Hashtronauts                 
-| Web 0715         | Foo Tang                     
-| Web 0515         |               
+| Web 0715         | Foo Tang Clan
+| Web 0615         |
 | Web 0415         | Octocats                     
 | Ruby 007         | nil
 | Ruby 006         | nil
