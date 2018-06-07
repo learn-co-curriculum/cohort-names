@@ -34,11 +34,11 @@
 | Web 0716         | 404s                         
 | Web 0616         | pets_database_db             
 | Web 0416         | Bangarangs                   
-| Web 0216         | 
+| Web 0216         | Slackbeef
 | Web 1115         | Greenlights                  
 | Web 0915         | Hashtronauts                 
 | Web 0715         | Foo Tang Clan
-| Web 0615         |
+| Web 0615         | Hashrockets
 | Web 0415         | Octocats                     
 | Ruby 007         | nil
 | Ruby 006         | nil
