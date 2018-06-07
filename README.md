@@ -31,16 +31,12 @@
 | Web 0217         | Arachnocodiacs               |
 | Web 1116         | Ruby Doos                    |
 | Web 0916         | Github & Chill               |
-| iOS 0916         | 
 | Web 0716         | 404s                         |
 | Web 0616         | pets_database_db             |
-| iOS 0616         |  
 | Web 0416         | Bangarangs                   |
 | Web 0216         | 
-| iOS 0216         |   
 | Web 1115         | Greenlights                  |
 | Web 0915         | Hashtronauts                 |
-| iOS 0915         | 
 | Web 0715         | Foo Tang                     |
 | Web 0515         |               
 | Web 0415         | Octocats                     |
