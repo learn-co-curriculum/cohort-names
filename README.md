@@ -1,15 +1,15 @@
 ## The names of those who have gone before you
 
 
-|  Cohort          | Name                         |
-| ---------------- | ---------------------------- | 
+|  Cohort          | Name                            |
+| ---------------- | ------------------------------- | 
 | Dumbo Web 051418 | Straight Outta Terminal
 | NY Web 051418    | Garbage Collectors            
 | DC Web 042318    | Name Undefined               
 | Dumbo Web 042318 | Timbledore's Army
 | NY Web 042318    | RSpect                       
 | NY Web 040218    | Octothorpes                   
-| DC Web 031218    | Baby Got Stack 
+| DC Web 031218    | Baby Got Stack/ Stack Sabbath 
 | NY Web 031218    | Arrested Developers           
 | Web 022018       | Bobby Tables                 
 | Web 012918       | Michelle Rebranch             
