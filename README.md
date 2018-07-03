@@ -3,6 +3,7 @@
 
 |  Cohort          | Name                            |
 | ---------------- | ------------------------------- | 
+| DC Web 060418    | Say Hello World To My Little Friend 
 | Dumbo Web 051418 | Straight Outta Terminal
 | NY Web 051418    | Garbage Collectors            
 | DC Web 042318    | Name Undefined               
