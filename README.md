@@ -8,10 +8,10 @@
 | Houston Web 071618 | 
 | London Web 071618  | 
 | NY Web 071618      | 
-| Dumbo Web 062518   | 
+| Dumbo Web 062518   | Octothorpes
 | NY Web 062518      | 
 | DC Web 060418      | Say Hello World To My Little Friend 
-| Dumbo Web 060418   |
+| Dumbo Web 060418   | <Slack>ers
 | London Web 060418  | Peaky Binders
 | NY Web 060418      |
 | Dumbo Web 051418   | Straight Outta Terminal
