@@ -6,7 +6,7 @@
 | DC Web 071618      | 
 | Dumbo Web 071618   | 
 | Houston Web 071618 | 
-| London Web 071618  | 
+| London Web 071618  | while (e === coyote)
 | NY Web 071618      | 
 | Dumbo Web 062518   | Octothorpes
 | NY Web 062518      | rake db:drop (it like it's hot)
