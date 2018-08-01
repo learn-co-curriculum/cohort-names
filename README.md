@@ -11,7 +11,7 @@
 | Dumbo Web 062518   | Octothorpes
 | NY Web 062518      | rake db:drop (it like it's hot)
 | DC Web 060418      | Say Hello World To My Little Friend 
-| Dumbo Web 060418   | <Slack>ers
+| Dumbo Web 060418   | \<Slack\>ers
 | London Web 060418  | Peaky Binders
 | NY Web 060418      | Elevator Code
 | Dumbo Web 051418   | Straight Outta Terminal
