@@ -4,7 +4,7 @@
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- | 
 | DC Web 071618      | Good Migrations
-| Dumbo Web 071618   | 
+| Dumbo Web 071618   | Single Source of Talent
 | Houston Web 071618 | 
 | London Web 071618  | while (e === coyote)
 | NY Web 071618      | Salty Glitches
