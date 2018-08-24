@@ -9,7 +9,7 @@
 | London Web 071618  | while (e === coyote)
 | NY Web 071618      | Salty Glitches
 | Dumbo Web 062518   | Octothorpes
-| NY Web 062518      | rake db:drop (it like it's hot)
+| NY Web 062518      | Drop Tables Like It's Hot
 | DC Web 060418      | Say Hello World To My Little Friend 
 | Dumbo Web 060418   | \<Slack\>ers
 | London Web 060418  | Peaky Binders
