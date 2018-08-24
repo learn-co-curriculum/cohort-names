@@ -5,7 +5,7 @@
 | ------------------ | ------------------------------- | 
 | DC Web 071618      | Good Migrations
 | Dumbo Web 071618   | Single Source of Talent
-| Houston Web 071618 | 
+| Houston Web 071618 | Houston.first
 | London Web 071618  | while (e === coyote)
 | NY Web 071618      | Salty Glitches
 | Dumbo Web 062518   | Octothorpes
