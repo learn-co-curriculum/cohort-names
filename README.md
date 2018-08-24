@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- | 
+| Dumbo Web 080618   | Kiss My Hash
 | DC Web 071618      | Good Migrations
 | Dumbo Web 071618   | Single Source of Talent
 | Houston Web 071618 | Houston.first
