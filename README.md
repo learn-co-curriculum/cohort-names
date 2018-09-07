@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- | 
+| Houston Web 082718 | Boolean Icing (but the chant to exit feelings is "Fork Repos Git Money"; inside-joke stuff)
 | Dumbo Web 080618   | Kiss My Hash
 | NY Web 080618      | RSpec the Wealth
 | DC Web 071618      | Good Migrations
