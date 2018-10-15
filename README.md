@@ -5,6 +5,7 @@
 | ------------------ | ------------------------------- | 
 | DC Web 091818      | Ctrl-Alt-Defeat
 | DC Web 082718      | Puts rspec on my :name
+| Dumbo Web 082718   | Full Snack Devs
 | Houston Web 082718 | Boolean Icing (but the chant to exit feelings is "Fork Repos Git Money"; inside-joke stuff)
 | Dumbo Web 080618   | Kiss My Hash
 | NY Web 080618      | RSpec the Wealth
