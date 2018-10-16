@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- | 
+| Houston Web 100818 | ./The Hash (Bash the Hash)
 | DC Web 091818      | Ctrl-Alt-Defeat
 | DC Web 082718      | Puts rspec on my :name
 | Dumbo Web 082718   | Full Snack Devs
