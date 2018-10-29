@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- | 
+| DC Web 100818      | !Slackers
 | Houston Web 100818 | ./The Hash (Bash the Hash)
 | DC Web 091818      | Ctrl-Alt-Defeat
 | DC Web 082718      | Puts rspec on my :name
