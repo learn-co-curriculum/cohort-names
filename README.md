@@ -6,6 +6,7 @@
 | DC Web 100818      | !Slackers
 | Houston Web 100818 | ./The Hash (Bash the Hash)
 | DC Web 091818      | Ctrl-Alt-Defeat
+| Dumbo Web 091718   | Directory's Child                
 | DC Web 082718      | Puts rspec on my :name
 | Dumbo Web 082718   | Full Snack Devs
 | Houston Web 082718 | Boolean Icing (but the chant to exit feelings is "Fork Repos Git Money"; inside-joke stuff)
