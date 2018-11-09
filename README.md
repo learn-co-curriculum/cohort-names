@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- | 
+| Dumbo Web 100818   | !my_type   
 | DC Web 100818      | !Slackers
 | Nyc Web 100818     | Git me baby one more time
 | Houston Web 100818 | ./The Hash (Bash the Hash)
