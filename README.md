@@ -2,13 +2,17 @@
 
 
 |  Cohort            | Name                            |
-| ------------------ | ------------------------------- | 
+| ------------------ | ------------------------------- |
+| London Web 102918  | git some
 | Dumbo Web 100818   | !my_type   
 | DC Web 100818      | !Slackers
+| London Web 100818  | Everybody Loves Arraymond
 | Nyc Web 100818     | Git me baby one more time
 | Houston Web 100818 | ./The Hash (Bash the Hash)
+| London Web 091718  | Hashholes
 | DC Web 091818      | Ctrl-Alt-Defeat
-| Dumbo Web 091718   | Directory's Child                
+| Dumbo Web 091718   | Directory's Child
+| London Web 082718  | Prybabies
 | DC Web 082718      | Puts rspec on my :name
 | Dumbo Web 082718   | Full Snack Devs
 | Houston Web 082718 | Boolean Icing (but the chant to exit feelings is "Fork Repos Git Money"; inside-joke stuff)
@@ -17,7 +21,7 @@
 | DC Web 071618      | Good Migrations
 | Dumbo Web 071618   | Single Source of Talent
 | Houston Web 071618 | Houston.first
-| London Web 071618  | while (e === coyote)
+| London Web 071618  | byte me
 | NY Web 071618      | Salty Glitches
 | Dumbo Web 062518   | Octothorpes
 | NY Web 062518      | Drop Tables Like It's Hot
