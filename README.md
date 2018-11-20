@@ -12,6 +12,7 @@
 | London Web 091718  | Hashholes
 | DC Web 091818      | Ctrl-Alt-Defeat
 | Dumbo Web 091718   | Directory's Child
+| Nyc Web 091718     | Commitment Issues
 | London Web 082718  | Prybabies
 | DC Web 082718      | Puts rspec on my :name
 | Dumbo Web 082718   | Full Snack Devs
