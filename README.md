@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Atlanta Web 102918 | Hashlanta
 | London Web 102918  | git some
 | Dumbo Web 100818   | !my_type   
 | DC Web 100818      | !Slackers
