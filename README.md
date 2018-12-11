@@ -3,7 +3,9 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Dumbo Web 111918   | Hash Gang
 | Atlanta Web 102918 | Hashlanta
+| Dumbo Web 102918   | 16 Bit Warriors
 | London Web 102918  | git some
 | Dumbo Web 100818   | !my_type   
 | DC Web 100818      | !Slackers
