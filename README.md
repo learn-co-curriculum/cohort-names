@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| DC Web 111918      | Weird specs but OK
 | NYC Web 111918     | Terminally Trill
 | Dumbo Web 111918   | Hash Gang
 | Atlanta Web 102918 | Hashlanta
