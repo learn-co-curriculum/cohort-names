@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| London Web 111918  | I Pry With My Little Eye
 | DC Web 111918      | Weird specs but OK
 | NYC Web 111918     | Terminally Trill
 | Dumbo Web 111918   | Hash Gang
