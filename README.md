@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| NYC Web 111918     | Terminally Trill
 | Dumbo Web 111918   | Hash Gang
 | Atlanta Web 102918 | Hashlanta
 | Dumbo Web 102918   | 16 Bit Warriors
