@@ -35,7 +35,7 @@
 | NY Web 062518      | Drop Tables Like It's Hot
 | DC Web 062518      | "#{classname}"
 | DC Web 060418      | Say Hello World To My Little Friend 
-| Dumbo Web 060418   | \<Slack\>ers
+| Dumbo Web 060418   | \<Slack\>ers / Big Slack Energy
 | London Web 060418  | Peaky Binders
 | NY Web 060418      | Elevator Code
 | Dumbo Web 051418   | Straight Outta Terminal
