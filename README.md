@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| DC Web 010709      | JSON Derulo Fan Club
 | Atlanta Web 121018 | Sexy and I Know Git
 | London Web 111918  | I Pry With My Little Eye
 | DC Web 111918      | Weird specs but OK
