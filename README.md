@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| NYC Web 121018     | Gem Rats
 | Dumbo Web 121018   | "cheese"
 | DC Web 010709      | JSON Derulo Fan Club
 | Atlanta Web 121018 | Sexy and I Know Git
@@ -24,6 +25,7 @@
 | Dumbo Web 091718   | Directory's Child
 | Nyc Web 091718     | Commitment Issues
 | London Web 082718  | Prybabies
+| NYC Web 082718     | Don't make no sense
 | DC Web 082718      | Puts rspec on my :name
 | Dumbo Web 082718   | Full Snack Devs
 | Houston Web 082718 | Boolean Icing (but the chant to exit feelings is "Fork Repos Git Money"; inside-joke stuff)
