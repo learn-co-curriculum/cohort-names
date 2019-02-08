@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Dumbo Web 012819   | Tom
 | NYC Web 121018     | Gem Rats
 | Dumbo Web 121018   | "cheese"
 | DC Web 010709      | JSON Derulo Fan Club
