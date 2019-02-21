@@ -4,9 +4,10 @@
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
 | Dumbo Web 012819   | Tom
+| DC Web 010709      | JSON Derulo Fan Club
+| NYC Web 010709     | Git this Bread
 | NYC Web 121018     | Gem Rats
 | Dumbo Web 121018   | "cheese"
-| DC Web 010709      | JSON Derulo Fan Club
 | Atlanta Web 121018 | Sexy and I Know Git
 | London Web 111918  | I Pry With My Little Eye
 | DC Web 111918      | Weird specs but OK
