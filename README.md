@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Seattle 012819     | seattle.first
 | Dumbo Web 012819   | Tom
 | DC Web 010709      | JSON Derulo Fan Club
 | NYC Web 010709     | Git this Bread
