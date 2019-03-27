@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| DC Web 011819      | [sunshine] 
 | Atlanta Web 031119 | Bad Hash Mother Forkers
 | Atlanta Web 012819 | Live Laugh Fail Fast
 | Seattle 012819     | seattle.first
