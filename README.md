@@ -6,7 +6,9 @@
 | Denver Web 031119  | denver[0]
 | Atlanta Web 031119 | Bad Hash Mother Forkers
 | London Web 031119  | Inglorious Bashterds
+| Dumbo Web 031119   | Devpool
 | Seattle Web 021819 | CRUD
+| Dumbo Web 021819   | Hip-Hip-Array
 | DC Web 011819      | [sunshine] 
 | Atlanta Web 012819 | Live Laugh Fail Fast
 | Seattle 012819     | seattle.first
