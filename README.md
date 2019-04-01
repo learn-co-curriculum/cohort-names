@@ -5,13 +5,16 @@
 | ------------------ | ------------------------------- |
 | Denver Web 031119  | denver[0]
 | Atlanta Web 031119 | Bad Hash Mother Forkers
+| London Web 031119  | Inglorious Bashterds
 | Seattle Web 021819 | CRUD
 | DC Web 011819      | [sunshine] 
 | Atlanta Web 012819 | Live Laugh Fail Fast
 | Seattle 012819     | seattle.first
 | Dumbo Web 012819   | Tom
+| London Web 012819  | Zero to Hero(ku)
 | DC Web 010709      | JSON Derulo Fan Club
 | NYC Web 010709     | Git this Bread
+| London Web 010709  | Ruby on Fails
 | NYC Web 121018     | Gem Rats
 | Dumbo Web 121018   | "cheese"
 | Atlanta Web 121018 | Sexy and I Know Git
