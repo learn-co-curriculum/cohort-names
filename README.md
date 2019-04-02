@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Seattle Web 031119 | Hermin Mervil
 | Denver Web 031119  | denver[0]
 | Atlanta Web 031119 | Bad Hash Mother Forkers
 | London Web 031119  | Inglorious Bashterds
