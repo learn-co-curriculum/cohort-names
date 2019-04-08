@@ -10,6 +10,7 @@
 | Dumbo Web 031119   | Devpool
 | Seattle Web 021819 | CRUD
 | Dumbo Web 021819   | Hip-Hip-Array
+| NYC Web 021819     | Hip-Hip-Array
 | DC Web 011819      | [sunshine] 
 | NYC Web 012819     | MotherFunction
 | NYC Data 012819    | Sklearners
