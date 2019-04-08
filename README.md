@@ -12,6 +12,7 @@
 | Dumbo Web 021819   | Hip-Hip-Array
 | DC Web 011819      | [sunshine] 
 | NYC Web 012819     | MotherFunction
+| NYC Data 012819    | Sklearners
 | Atlanta Web 012819 | Live Laugh Fail Fast
 | Seattle 012819     | seattle.first
 | Dumbo Web 012819   | Tom
@@ -30,6 +31,7 @@
 | Atlanta Web 102918 | Hashlanta
 | Dumbo Web 102918   | 16 Bit Warriors
 | London Web 102918  | git some
+| NYC Data 102219    | Babbage Patch Kids
 | Dumbo Web 100818   | !my_type   
 | DC Web 100818      | !Slackers
 | London Web 100818  | Everybody Loves Arraymond
