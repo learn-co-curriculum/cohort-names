@@ -9,6 +9,7 @@
 | Atlanta Web 031119 | Bad Hash Mother Forkers
 | London Web 031119  | Inglorious Bashterds
 | Dumbo Web 031119   | Devpool
+| Houston Web 021819 | strangers.replace("friends")
 | Seattle Web 021819 | CRUD
 | Dumbo Web 021819   | Hip-Hip-Array
 | NYC Web 021819     | Hip-Hip-Array
