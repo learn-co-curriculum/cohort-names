@@ -11,6 +11,7 @@
 | Seattle Web 021819 | CRUD
 | Dumbo Web 021819   | Hip-Hip-Array
 | DC Web 011819      | [sunshine] 
+| NYC Web 012819     | MotherFunction
 | Atlanta Web 012819 | Live Laugh Fail Fast
 | Seattle 012819     | seattle.first
 | Dumbo Web 012819   | Tom
