@@ -14,7 +14,7 @@
 | Dumbo Web 021819   | Hip-Hip-Array
 | NYC Web 021819     | Hip-Hip-Array
 | London Web 021819  | Pretty fly for a CLI
-| DC Web 011819      | [sunshine] 
+| DC Web 021819      | [sunshine] 
 | NYC Web 012819     | MotherFunction
 | NYC Data 012819    | Sklearners
 | Atlanta Web 012819 | Live Laugh Fail Fast
