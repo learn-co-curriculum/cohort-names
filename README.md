@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Chicago Web 040119 | Hell on Rails 
 | NYC Web 03119      | earth.flatten
 | Seattle Web 031119 | Hermin Mervil
 | Denver Web 031119  | denver[0]
