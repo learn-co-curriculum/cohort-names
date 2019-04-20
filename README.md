@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Houston Web 040119 | Space City Hashtronauts
 | Chicago Web 040119 | Hell on Rails 
 | NYC Web 03119      | earth.flatten
 | Seattle Web 031119 | Hermin Mervil
