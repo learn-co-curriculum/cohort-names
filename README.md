@@ -3,6 +3,8 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Dumbo Web 042219   | Hashketballers
+| Dumbo Web 040119   | A Cohort Has nil Name
 | DC Web 040119      | Stranger Strings
 | Houston Web 040119 | Space City Hashtronauts
 | Chicago Web 040119 | Hell on Rails 
