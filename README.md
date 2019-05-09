@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Atlanta Web 042219 | Git Lit
 | Dumbo Web 042219   | Hashketballers
 | Dumbo Web 040119   | A Cohort Has nil Name
 | DC Web 040119      | Stranger Strings
