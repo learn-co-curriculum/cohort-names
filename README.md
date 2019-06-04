@@ -10,6 +10,7 @@
 | DC Web 040119      | Stranger Strings
 | Houston Web 040119 | Space City Hashtronauts
 | Chicago Web 040119 | Hell on Rails 
+| NYC Data 031119    | Sean and Friends
 | NYC Web 031119     | earth.flatten
 | Seattle Web 031119 | Hermin Mervil
 | Denver Web 031119  | denver[0]
