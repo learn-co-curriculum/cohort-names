@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Yale Web 052719    | Inglorious Hashters
 | Dumbo Web 051319   | Glorious Pegasus
 | Atlanta Web 042219 | Git Lit
 | Dumbo Web 042219   | Hashketballers
