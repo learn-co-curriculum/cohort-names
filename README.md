@@ -12,6 +12,7 @@
 | Dumbo Web 042219   | Hashketballers
 | Seattle Web 042219 | danny_champion_of_the_world
 | NYC Web 042219     | Boolean Assange’s Cat
+| Houston DS 042219  | DS[0]
 | Dumbo Web 040119   | A Cohort Has nil Name
 | DC Web 040119      | Stranger Strings
 | Houston Web 040119 | Space City Hashtronauts
