@@ -3,12 +3,14 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| DC DS 060319       | tbd
 | DC Web 051319      | "cheese"
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
 | Seattle Web 051319 | Wormketball
 | Dumbo Web 051319   | Glorious Pegasus
 | Atlanta Web 042219 | Git Lit
+| DC DS 042219       | The Knights Who Say "μ"
 | Dumbo Web 042219   | Hashketballers
 | Seattle Web 042219 | danny_champion_of_the_world
 | Dumbo Web 040119   | A Cohort Has nil Name
