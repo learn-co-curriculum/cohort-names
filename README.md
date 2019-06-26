@@ -3,13 +3,15 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
-| Houston Web 051319 | Curling Iron
-| DC Web 051319      | "cheese"
+| DC DS 060319       | tbd
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
+| Houston Web 051319 | Curling Iron
+| DC Web 051319      | "cheese"
 | Seattle Web 051319 | Wormketball
 | Dumbo Web 051319   | Glorious Pegasus
 | Atlanta Web 042219 | Git Lit
+| DC DS 042219       | The Knights Who Say "μ"
 | Dumbo Web 042219   | Hashketballers
 | Seattle Web 042219 | danny_champion_of_the_world
 | NYC Web 042219     | Boolean Assange’s Cat
