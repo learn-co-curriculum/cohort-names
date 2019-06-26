@@ -6,6 +6,7 @@
 | DC DS 060319       | tbd
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
+| Houston Web 051319 | Curling Iron
 | DC Web 051319      | "cheese"
 | Seattle Web 051319 | Wormketball
 | Dumbo Web 051319   | Glorious Pegasus
@@ -13,6 +14,8 @@
 | DC DS 042219       | The Knights Who Say "μ"
 | Dumbo Web 042219   | Hashketballers
 | Seattle Web 042219 | danny_champion_of_the_world
+| NYC Web 042219     | Boolean Assange’s Cat
+| Houston DS 042219  | DS[0]
 | Dumbo Web 040119   | A Cohort Has nil Name
 | DC Web 040119      | Stranger Strings
 | Houston Web 040119 | Space City Hashtronauts
@@ -24,7 +27,7 @@
 | Atlanta Web 031119 | Bad Hash Mother Forkers
 | London Web 031119  | Inglorious Bashterds
 | Dumbo Web 031119   | Devpool
-| Houston Web 021819 | strangers.replace("friends")
+| Houston Web 021819 | ~~strangers.replace("friends")~~ Houston Codeo
 | Seattle Web 021819 | CRUD
 | Dumbo Web 021819   | Hip-Hip-Array
 | NYC Web 021819     | Hip-Hip-Array
