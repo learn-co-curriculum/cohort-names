@@ -10,6 +10,7 @@
 | Dumbo Web 051319   | Glorious Pegasus
 | Atlanta Web 042219 | Git Lit
 | Dumbo Web 042219   | Hashketballers
+| Seattle Web 042219 | danny_champion_of_the_world
 | Dumbo Web 040119   | A Cohort Has nil Name
 | DC Web 040119      | Stranger Strings
 | Houston Web 040119 | Space City Hashtronauts
