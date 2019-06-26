@@ -8,6 +8,7 @@
 | NYC Web 051319     | Code Blooded              
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
+| Seattle DS 051319  | DS^3
 | Seattle Web 051319 | Wormketball
 | Dumbo Web 051319   | Glorious Pegasus
 | Atlanta Web 042219 | Git Lit
@@ -20,6 +21,7 @@
 | DC Web 040119      | Stranger Strings
 | Houston Web 040119 | Space City Hashtronauts
 | Chicago Web 040119 | Hell on Rails 
+| Seattle DS 040119  | DSAF
 | NYC Data 031119    | Sean and Friends
 | NYC Web 031119     | earth.flatten
 | Seattle Web 031119 | Hermin Mervil
