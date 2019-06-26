@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Seattle Web 060319 | GRITHUB                         
 | DC Web 051319      | "cheese"
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
