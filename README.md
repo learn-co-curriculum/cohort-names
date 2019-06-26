@@ -3,17 +3,15 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
-| DC DS 060319       | tbd
+| DC Web 051319      | "cheese"
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
-| Houston Web 051319 | Curling Iron
-| DC Web 051319      | "cheese"
 | Seattle Web 051319 | Wormketball
 | Dumbo Web 051319   | Glorious Pegasus
 | Atlanta Web 042219 | Git Lit
-| DC DS 042219       | The Knights Who Say "μ"
 | Dumbo Web 042219   | Hashketballers
 | Seattle Web 042219 | danny_champion_of_the_world
+| NYC Data 042219    | Plötly Crüe
 | NYC Web 042219     | Boolean Assange’s Cat
 | Houston DS 042219  | DS[0]
 | Dumbo Web 040119   | A Cohort Has nil Name
@@ -27,7 +25,7 @@
 | Atlanta Web 031119 | Bad Hash Mother Forkers
 | London Web 031119  | Inglorious Bashterds
 | Dumbo Web 031119   | Devpool
-| Houston Web 021819 | ~~strangers.replace("friends")~~ Houston Codeo
+| Houston Web 021819 | strangers.replace("friends")
 | Seattle Web 021819 | CRUD
 | Dumbo Web 021819   | Hip-Hip-Array
 | NYC Web 021819     | Hip-Hip-Array
