@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Houston Web 051319 | Curling Iron
 | DC Web 051319      | "cheese"
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
@@ -24,7 +25,7 @@
 | Atlanta Web 031119 | Bad Hash Mother Forkers
 | London Web 031119  | Inglorious Bashterds
 | Dumbo Web 031119   | Devpool
-| Houston Web 021819 | strangers.replace("friends")
+| Houston Web 021819 | ~~strangers.replace("friends")~~ Houston Codeo
 | Seattle Web 021819 | CRUD
 | Dumbo Web 021819   | Hip-Hip-Array
 | NYC Web 021819     | Hip-Hip-Array
