@@ -23,6 +23,7 @@
 | Dumbo Web 040119   | A Cohort Has nil Name
 | DC Web 040119      | Stranger Strings
 | Houston Web 040119 | Space City Hashtronauts
+| NYC Web 040119 | Dan, Stop Eating the Internet! Stop Eating the internet, Dan!
 | Chicago Web 040119 | Hell on Rails 
 | Seattle DS 040119  | DSAF
 | NYC Data 031119    | Sean and Friends
