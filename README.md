@@ -4,7 +4,7 @@
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
 | DC DS 060319       | Snacc Overflow: We git \_\_init\_\_
-| Denver Web 060319  | 2B \|\|\ !2B 
+| Denver Web 060319  | 2B \|\| !2B 
 | Seattle Web 060319 | GRITHUB                         
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
