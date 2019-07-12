@@ -4,6 +4,7 @@
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
 | DC DS 060319       | Snacc Overflow: We git \_\_init\_\_
+| Denver Web 060319  | 2B || !2B
 | Seattle Web 060319 | GRITHUB                         
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
@@ -20,6 +21,7 @@
 | London Web 042219  | Arrested Developers
 | NYC Data 042219    | Plötly Crüe
 | NYC Web 042219     | Boolean Assange’s Cat
+| Denver Web 042219  | Git.Money
 | Houston DS 042219  | DS[0]
 | Dumbo Web 040119   | A Cohort Has nil Name
 | DC Web 040119      | Stranger Strings
