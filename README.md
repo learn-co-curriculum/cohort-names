@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| DC Web 062419      | Rocket Surgeons
 | Houston Web 062419 | Codebusters
 | DC DS 060319       | Snacc Overflow: We git \_\_init\_\_
 | Denver Web 060319  | 2B \|\| !2B 
