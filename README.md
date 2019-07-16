@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Dumbo Web 062419   | Git Rich or Die Prying
 | DC Web 062419      | Rocket Surgeons
 | Houston Web 062419 | Codebusters
 | DC DS 060319       | Snacc Overflow: We git \_\_init\_\_
