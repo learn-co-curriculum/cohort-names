@@ -12,6 +12,7 @@
 | Seattle Web 060319 | GRITHUB                         
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | Yale Web 052719    | Inglorious Hashters
+| Chicago Web 051319 | Ride or Pry
 | DC Web 051319      | "cheese"
 | Houston Web 051319 | Curling Iron
 | NYC Web 051319     | Code Blooded              
