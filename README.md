@@ -4,6 +4,7 @@
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
 | DC Web 080519      | BRANCH DRESSING
+| NYC Web 071519     | Power Arrayngers
 | Dumbo Web 071519   | Welcome to Chili's
 | Chicago Web 062419 | Git Push Git Paid
 | Dumbo Web 062419   | Git Rich or Die Prying
