@@ -10,6 +10,7 @@
 | Chicago Web 062419 | Git Push Git Paid
 | Dumbo Web 062419   | Git Rich or Die Prying
 | DC Web 062419      | Rocket Surgeons
+| Seattle Web 062419 | My Dad is THE manager at Sunglasses Hut
 | Houston Web 062419 | Codebusters
 | DC DS 060319       | Snacc Overflow: We git \_\_init\_\_
 | Denver Web 060319  | 2B \|\| !2B 
