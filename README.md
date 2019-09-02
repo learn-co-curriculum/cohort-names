@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Seattle Web 080519 | [hip, hip]
 | DC Web 080519      | BRANCH DRESSING
 | NYC Web 071519     | Power Arrayngers
 | Dumbo Web 071519   | Welcome to Chili's
