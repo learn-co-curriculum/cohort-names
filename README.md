@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| NYC Web 080519     | Killer Clowns from Router Space 
 | Seattle Web 080519 | [hip, hip]
 | DC Web 080519      | BRANCH DRESSING
 | NYC Data 071519    | Side Bayes
