@@ -19,6 +19,7 @@
 | Denver Web 060319  | 2B \|\| !2B 
 | Seattle Web 060319 | GRITHUB                         
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
+| NYC Web 060319     | Curly Bois
 | Yale Web 052719    | Inglorious Hashters
 | Chicago Web 051319 | Ride or Pry
 | DC Web 051319      | "cheese"
