@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Chicago Web 082619 | Digits
 | NYC Web Clarke 080519 | xXRedDarknessXx
 | NYC Web 080519     | Killer Clowns from Router Space 
 | Seattle Web 080519 | [hip, hip]
