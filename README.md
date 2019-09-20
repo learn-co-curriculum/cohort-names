@@ -12,6 +12,7 @@
 | NYC Data 071519    | Side Bayes
 | NYC Web 071519     | Power Arrayngers
 | Dumbo Web 071519   | Welcome to Chili's
+| DC DS 071519       | Upstream Masters
 | London Web 062419  | Scrumbags
 | Chicago Web 062419 | Git Push Git Paid
 | Dumbo Web 062419   | Git Rich or Die Prying
