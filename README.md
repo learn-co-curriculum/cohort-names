@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| DC Web 091619      | binding.fly
 | Dumbo Web 082619   | Enumerati
 | Chicago Web 082619 | Digits
 | DC DS 082619       | Paranormal Distribution
