@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Atlanta Web 071519 | I solemnly swear I'm up to no git                  
 | Dumbo Web 091619   | HTFML                   
 | DC Web 091619      | binding.fly
 | Dumbo Web 082619   | Enumerati
@@ -10,7 +11,7 @@
 | DC DS 082619       | Paranormal Distribution
 | Dumbo Web 080519   | Fruit Snack Developers
 | NYC Web Clarke 080519 | xXRedDarknessXx
-| NYC Web 080519     | Killer Clowns from Router Space 
+| NYC Web 080519     | Killer Clowns from Router Space
 | Seattle Web 080519 | [hip, hip]
 | DC Web 080519      | BRANCH DRESSING
 | NYC Web Clarke 071519 | Don't Stop Git It Git It
@@ -25,7 +26,7 @@
 | Seattle Web 062419 | My Dad is THE manager at Sunglasses Hut
 | Houston Web 062419 | Codebusters
 | DC DS 060319       | Snacc Overflow: We git \_\_init\_\_
-| Denver Web 060319  | 2B \|\| !2B 
+| Denver Web 060319  | 2B \|\| !2B
 | Seattle Web 060319 | GRITHUB                         
 | Dumbo Web 060319   | Don't Go JSON Waterfalls
 | NYC Web 060319     | Curly Bois
@@ -51,7 +52,7 @@
 | Houston Web 040119 | Space City Hashtronauts
 | London Web 040119  | Off the Rails
 | NYC Web 040119     | Dan, Stop Eating the Internet! Stop Eating the internet, Dan!
-| Chicago Web 040119 | Hell on Rails 
+| Chicago Web 040119 | Hell on Rails
 | Seattle DS 040119  | DSAF
 | NYC Data 031119    | Sean and Friends
 | NYC Web 031119     | earth.flatten
@@ -65,7 +66,7 @@
 | Dumbo Web 021819   | Hip-Hip-Array
 | NYC Web 021819     | Hip-Hip-Array
 | London Web 021819  | Pretty fly for a CLI
-| DC Web 021819      | [sunshine] 
+| DC Web 021819      | [sunshine]
 | NYC Web 012819     | MotherFunction
 | NYC Data 012819    | Sklearners
 | Atlanta Web 012819 | Live Laugh Fail Fast
@@ -113,7 +114,7 @@
 | Dumbo Web 062518   | Octothorpes
 | NY Web 062518      | Drop Tables Like It's Hot
 | DC Web 062518      | "#{classname}"
-| DC Web 060418      | Say Hello World To My Little Friend 
+| DC Web 060418      | Say Hello World To My Little Friend
 | Dumbo Web 060418   | \<Slack\>ers / Big Slack Energy
 | London Web 060418  | Peaky Binders
 | NY Web 060418      | Elevator Code
