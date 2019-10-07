@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Houston Web 091619 | GIT PUSH GIT PAID                  
 | Atlanta Web 071519 | I solemnly swear I'm up to no git                  
 | Dumbo Web 091619   | HTFML                   
 | DC Web 091619      | binding.fly
