@@ -3,6 +3,8 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Denver Web 100719  | {keteers} Hashketeers
+| Denver Web 082619  | [leins] Arrayliens
 | Denver Web 071519  | 11xers
 | Houston Web 091619 | GIT PUSH GIT PAID                  
 | Atlanta Web 071519 | I solemnly swear I'm up to no git                  
