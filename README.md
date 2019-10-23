@@ -4,23 +4,23 @@
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
 | Denver Web 100719  | {keteers} Hashketeers
-| Denver Web 082619  | [leins] Arrayliens
-| Denver Web 071519  | 11xers
-| Houston Web 091619 | GIT PUSH GIT PAID                  
-| Atlanta Web 071519 | I solemnly swear I'm up to no git                  
-| Dumbo Web 091619   | HTFML                   
+| Houston Web 091619 | GIT PUSH GIT PAID
+| Dumbo Web 091619   | HTFML
 | DC Web 091619      | binding.fly
-| Dumbo Web 082619   | Enumerati
 | Chicago Web 082619 | Digits
 | DC DS 082619       | Paranormal Distribution
+| Denver Web 082619  | [leins] Arrayliens
+| Dumbo Web 082619   | Enumerati
 | Dumbo Web 080519   | Fruit Snack Developers
 | NYC Web Clarke 080519 | xXRedDarknessXx
 | NYC Web 080519     | Killer Clowns from Router Space
 | Seattle Web 080519 | [hip, hip]
 | DC Web 080519      | BRANCH DRESSING
+| Atlanta Web 071519 | I solemnly swear I'm up to no git
 | NYC Web Clarke 071519 | Don't Stop Git It Git It
 | NYC Data 071519    | Side Bayes
 | NYC Web 071519     | Power Arrayngers
+| Denver Web 071519  | 11xers
 | Dumbo Web 071519   | Welcome to Chili's
 | DC DS 071519       | Upstream Masters
 | London Web 062419  | Scrumbags
