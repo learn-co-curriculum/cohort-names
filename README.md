@@ -8,6 +8,7 @@
 | Houston Web 091619 | GIT PUSH GIT PAID
 | Dumbo Web 091619   | HTFML
 | DC Web 091619      | binding.fly
+| SF Web 091619      | The Golden Git
 | Chicago Web 082619 | Digits
 | DC DS 082619       | Paranormal Distribution
 | Denver Web 082619  | [leins] Arrayliens
