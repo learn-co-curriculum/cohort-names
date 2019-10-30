@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Dumbo Web 100719   | Gainfully Deployed
 | Denver Web 100719  | {keteers} Hashketeers
 | Houston Web 091619 | GIT PUSH GIT PAID
 | Dumbo Web 091619   | HTFML
