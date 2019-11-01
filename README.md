@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| DC DS 100719       | f'{root}' loops
 | Chicago Web 100719 | Git to the choppa!
 | Dumbo Web 100719   | Gainfully Deployed
 | Denver Web 100719  | {keteers} Hashketeers
