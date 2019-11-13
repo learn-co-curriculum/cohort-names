@@ -15,6 +15,7 @@
 | DC DS 082619       | Paranormal Distribution
 | Denver Web 082619  | [leins] Arrayliens
 | Dumbo Web 082619   | Enumerati
+| Houston Web 080519   | Class Overlords
 | Dumbo Web 080519   | Fruit Snack Developers
 | NYC Web Clarke 080519 | xXRedDarknessXx
 | NYC Web 080519     | Killer Clowns from Router Space
