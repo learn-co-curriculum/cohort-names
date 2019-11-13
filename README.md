@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Chicago DS 080519  | Euchre Ensemble
 | DC DS 100719       | f'{root}' loops
 | Chicago Web 100719 | Git to the choppa!
 | Dumbo Web 100719   | Gainfully Deployed
