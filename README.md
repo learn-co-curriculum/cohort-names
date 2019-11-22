@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| NYC Web Clarke 100719 | CSS Desist
 | Chicago DS 102819  | Parselmouths (Get it? We speak python)
 | Chicago DS 080519  | Euchre Ensemble
 | DC DS 100719       | f'{root}' loops
