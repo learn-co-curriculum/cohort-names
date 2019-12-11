@@ -3,6 +3,9 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Austin Web 102819 | .uniq |
+| Austin Web 091619 | Schema |
+| Austin Web 080519 | Snap Dragons |
 | NYC DS 100719 | Gradient Dissent |
 | NYC Web Clarke 100719 | CSS & Desist
 | Chicago DS 102819  | Parselmouths (Get it? We speak python)
