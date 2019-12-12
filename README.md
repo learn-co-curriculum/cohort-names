@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Dumbo Web 102819  | Git Push Myself |
 | Austin Web 102819 | .uniq |
 | Austin Web 091619 | Schema |
 | Austin Web 080519 | Snap Dragons |
