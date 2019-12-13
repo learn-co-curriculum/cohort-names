@@ -3,6 +3,7 @@
 
 |  Cohort            | Name                            |
 | ------------------ | ------------------------------- |
+| Chicago SE 111819 | .splice girls |
 | DC Web 102819 | \|dreams\| |
 | Dumbo Web 102819  | Git Push Myself |
 | Austin Web 102819 | .uniq |
