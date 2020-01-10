@@ -5,14 +5,13 @@
 | ----------------- | ------------------------------- |
 | DC DS 111819      | $tryna_git_arrays$
 | Chicago SE 111819 | .splice girls |
-| DC Web 102819 | \|dreams\| |
+| DC Web 102819 | \|dreams\| 
 | Dumbo Web 102819  | Git Push Myself |
 | Austin Web 102819 | .uniq |
+| Chicago DS 102819  | Parselmouths (Get it? We speak python)|
 | Seattle Web 100719 | Hal Yeah |
 | NYC DS 100719 | Gradient Dissent |
 | NYC Web Clarke 100719 | CSS & Desist
-| Chicago DS 102819  | Parselmouths (Get it? We speak python)
-| Chicago DS 080519  | Euchre Ensemble
 | DC DS 100719       | f'{root}' loops
 | Atlanta Web 100719 | CurlyBoix: {}
 | Chicago Web 100719 | Git to the choppa!
@@ -28,6 +27,7 @@
 | DC DS 082619       | Paranormal Distribution
 | Denver Web 082619  | [leins] Arrayliens
 | Dumbo Web 082619   | Enumerati
+| Chicago DS 080519  | Euchre Ensemble
 | Austin Web 080519 | Snap Dragons |
 | Houston Web 080519   | Class Overlords
 | Dumbo Web 080519   | Fruit Snack Developers
