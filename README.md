@@ -8,8 +8,6 @@
 | DC Web 102819 | \|dreams\| |
 | Dumbo Web 102819  | Git Push Myself |
 | Austin Web 102819 | .uniq |
-| Austin Web 091619 | Schema |
-| Austin Web 080519 | Snap Dragons |
 | Seattle Web 100719 | Hal Yeah |
 | NYC DS 100719 | Gradient Dissent |
 | NYC Web Clarke 100719 | CSS & Desist
@@ -20,6 +18,7 @@
 | Chicago Web 100719 | Git to the choppa!
 | Dumbo Web 100719   | Gainfully Deployed
 | Denver Web 100719  | {keteers} Hashketeers
+| Austin Web 091619 | Schema |
 | Seattle Web 091619 | The Supergods...
 | Houston Web 091619 | GIT PUSH GIT PAID
 | Dumbo Web 091619   | HTFML
@@ -29,6 +28,7 @@
 | DC DS 082619       | Paranormal Distribution
 | Denver Web 082619  | [leins] Arrayliens
 | Dumbo Web 082619   | Enumerati
+| Austin Web 080519 | Snap Dragons |
 | Houston Web 080519   | Class Overlords
 | Dumbo Web 080519   | Fruit Snack Developers
 | NYC Web Clarke 080519 | xXRedDarknessXx
