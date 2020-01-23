@@ -10,6 +10,7 @@
 | Austin Web 102819 | .uniq |
 | Chicago DS 102819  | Parselmouths (Get it? We speak python)|
 | Seattle Web 100719 | Hal Yeah |
+| London DS 100719 | Standard Deviants |
 | NYC DS 100719 | Gradient Dissent |
 | NYC Web Clarke 100719 | CSS & Desist
 | DC DS 100719       | f'{root}' loops
