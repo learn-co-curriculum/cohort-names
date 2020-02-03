@@ -4,6 +4,7 @@
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
 | DC DS 010620      | git commit -m 'ment issues'
+| SF Web 120919      | Codaholics
 | DC DS 111819      | $tryna_git_arrays$
 | Chicago SE 111819 | .splice girls |
 | DC Web 102819 | \|dreams\| 
@@ -25,7 +26,6 @@
 | Dumbo Web 091619   | HTFML
 | DC Web 091619      | binding.fly
 | SF Web 091619      | The Golden Git
-| SF Web 120919      | Codaholics
 | Chicago Web 082619 | Digits
 | DC DS 082619       | Paranormal Distribution
 | Denver Web 082619  | [leins] Arrayliens
