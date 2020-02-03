@@ -3,6 +3,7 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| Seattle SE 120919 | ACE Software |
 | DC DS 010620      | git commit -m 'ment issues'
 | SF Web 120919      | Codaholics
 | DC DS 111819      | $tryna_git_arrays$
