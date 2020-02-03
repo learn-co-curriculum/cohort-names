@@ -8,6 +8,7 @@
 | SF Web 120919      | Codaholics
 | DC DS 111819      | $tryna_git_arrays$
 | Chicago SE 111819 | .splice girls |
+| Seattle DS 102819 | PUMAs |
 | DC Web 102819 | \|dreams\| 
 | Dumbo Web 102819  | Git Push Myself |
 | Austin Web 102819 | .uniq |
