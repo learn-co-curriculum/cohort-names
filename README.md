@@ -4,6 +4,7 @@
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
 | NYC Web 102819      | sindy's skeinz |
+| NYC Web FIDI 010620      | big git energy
 | DC DS 010620      | git commit -m 'ment issues' |
 | DC SE 120919      | Binding Nemo |
 | NYC Web 120919    | Fork It | 
@@ -22,6 +23,7 @@
 | London DS 100719 | Standard Deviants |
 | NYC DS 100719 | Gradient Dissent |
 | NYC Web Clarke 100719 | CSS & Desist
+| NYC Web FIDI 100719 | Family Therapy
 | DC DS 100719       | f'{root}' loops
 | Atlanta Web 100719 | CurlyBoix: {}
 | Chicago Web 100719 | Git to the choppa!
