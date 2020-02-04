@@ -9,6 +9,7 @@
 | Seattle SE 120919 | ACE Software |
 | SF Web 120919      | Codaholics
 | Dumbo SE 111819   | A Pry Called Quest |
+| NYC SE 111819   | NameError |
 | DC DS 111819      | $tryna_git_arrays$
 | Chicago SE 111819 | .splice girls |
 | Seattle DS 102819 | PUMAs |
