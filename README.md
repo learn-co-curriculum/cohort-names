@@ -3,10 +3,10 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| DC DS 010620      | git commit -m 'ment issues'
 | DC SE 120919      | Binding Nemo
 | NYC Web 120919    | Fork It | 
 | Seattle SE 120919 | ACE Software |
-| DC DS 010620      | git commit -m 'ment issues'
 | SF Web 120919      | Codaholics
 | Dumbo SE 111819   | A Pry Called Quest |
 | DC DS 111819      | $tryna_git_arrays$
