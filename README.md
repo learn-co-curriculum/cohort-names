@@ -3,8 +3,9 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
-| DC DS 010620      | git commit -m 'ment issues'
-| DC SE 120919      | Binding Nemo
+| NYC Web 102819      | sindy's skeinz |
+| DC DS 010620      | git commit -m 'ment issues' |
+| DC SE 120919      | Binding Nemo |
 | NYC Web 120919    | Fork It | 
 | Seattle SE 120919 | ACE Software |
 | SF Web 120919      | Codaholics
