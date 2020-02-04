@@ -18,6 +18,7 @@
 | DC Web 102819 | \|dreams\| 
 | Dumbo Web 102819  | Git Push Myself |
 | Austin Web 102819 | .uniq |
+| SF Web 102819 | Allen and His Disciples |
 | Chicago DS 102819  | Parselmouths (Get it? We speak python)|
 | Seattle Web 100719 | Hal Yeah |
 | London DS 100719 | Standard Deviants |
