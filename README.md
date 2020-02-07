@@ -4,16 +4,18 @@
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
 | NYC Web 102819      | sindy's skeinz |
-| NYC Web FIDI 010620      | big git energy
+| NYC Web FIDI 010620      | big git energy | 
+| Atlanta Web 010620 | Method Men | 
 | DC DS 010620      | git commit -m 'ment issues' |
 | DC SE 120919      | Binding Nemo |
 | NYC Web 120919    | Fork It | 
 | Seattle SE 120919 | ACE Software |
-| SF Web 120919      | Codaholics
+| SF Web 120919      | Codaholics |
 | Dumbo SE 111819   | A Pry Called Quest |
 | NYC SE 111819   | NameError |
 | DC DS 111819      | $tryna_git_arrays$
 | Chicago SE 111819 | .splice girls |
+| Atlanta Web 111819 | Gitface Killahs | 
 | Seattle DS 102819 | PUMAs |
 | DC Web 102819 | \|dreams\| 
 | Dumbo Web 102819  | Git Push Myself |
