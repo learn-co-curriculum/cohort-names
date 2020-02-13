@@ -3,6 +3,7 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| Houston Web 012720 | Runtime Terror |
 | NYC Web 102819      | sindy's skeinz |
 | NYC Web FIDI 010620      | big git energy | 
 | Atlanta Web 010620 | Method Men | 
@@ -35,7 +36,7 @@
 | Denver Web 100719  | {keteers} Hashketeers
 | Austin Web 091619 | Schema |
 | Seattle Web 091619 | The Supergods...
-| Houston Web 091619 | GIT PUSH GIT PAID
+| Houston Web 091619 | GIT PUSH GET PAID
 | Dumbo Web 091619   | HTFML
 | DC Web 091619      | binding.fly
 | SF Web 091619      | The Golden Git
