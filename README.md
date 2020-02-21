@@ -3,6 +3,7 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| Seattle Web 012720 | Dinasours |
 | Houston Web 012720 | Runtime Terror |
 | NYC Web 102819      | sindy's skeinz |
 | NYC Web FIDI 010620      | big git energy | 
