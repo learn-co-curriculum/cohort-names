@@ -3,6 +3,7 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| Austin Web 012720 | DevTones |
 | SF Web 012720    | Git Kat Kode |
 | Seattle Web 012720 | Dinasours |
 | Houston Web 012720 | Runtime Terror |
