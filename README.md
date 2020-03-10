@@ -3,6 +3,7 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+|DC DS 021720| Git init "on"|
 | Austin Web 012720 | Dev_tones |
 | SF Web 012720    | Git Kat Kode |
 | Seattle Web 012720 | Dinasours |
