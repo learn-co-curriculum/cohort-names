@@ -9,6 +9,7 @@
 | Seattle Web 012720 | Dinasours |
 | Houston Web 012720 | Runtime Terror |
 | NYC Web 102819      | sindy's skeinz |
+| Chicago Web 010620 | Fullstack Pancakes |
 | NYC Web FIDI 010620      | big git energy | 
 | Atlanta Web 010620 | Method Men | 
 | DC DS 010620      | git commit -m 'ment issues' |
