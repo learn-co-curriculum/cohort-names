@@ -3,7 +3,9 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
-|DC DS 021720| Git init "on"|
+| DC SE 032020 | {browns}
+| DC SE 012720 | Live Fast Pry Young
+| DC DS 021720| Git init "on"|
 | Austin Web 012720 | Dev_tones |
 | SF Web 012720    | Git Kat Kode |
 | Seattle Web 012720 | Dinasours |
