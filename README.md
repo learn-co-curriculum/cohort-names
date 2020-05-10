@@ -3,6 +3,7 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| Houston SE 042020 | CodersDeCorona |
 | Austin Web 030920 | !! (Bangbang) |
 | DC SE 032020 | {browns}
 | DC SE 012720 | Live Fast Pry Young
@@ -10,7 +11,7 @@
 | Austin Web 012720 | Dev_tones |
 | SF Web 012720    | Git Kat Kode |
 | Seattle Web 012720 | Dinasours |
-| Houston Web 012720 | Runtime Terror |
+| Houston SE 012720 | Runtime Terror |
 | NYC Web 102819      | sindy's skeinz |
 | Chicago Web 010620 | Fullstack Pancakes |
 | NYC Web FIDI 010620      | big git energy | 
