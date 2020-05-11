@@ -4,6 +4,7 @@
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
 | Houston SE 042020 | CodersDeCorona |
+| Chicago SE 033020 | CODED-19 |
 | Austin Web 030920 | !! (Bangbang) |
 | DC SE 032020 | {browns}
 | DC SE 012720 | Live Fast Pry Young
