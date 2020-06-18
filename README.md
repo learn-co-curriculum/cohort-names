@@ -3,13 +3,16 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| Dumbo SE 042020   | French Pry with Gitchup |
 | SF Web 042020     | When in Doubt, # it Out |
 | Houston SE 042020 | CodersDeCorona |
 | Chicago SE 033020 | CODED-19 |
 | Austin Web 030920 | !! (Bangbang) |
+| Dumbo SE 030920   | Go Getters and Trend Setters |
 | DC SE 032020 | {browns}
 | DC SE 012720 | Live Fast Pry Young
 | DC DS 021720| Git init "on"|
+| Dumbo SE 021720   | `:cohort_name` |
 | Austin Web 012720 | Dev_tones |
 | SF Web 012720    | Git Kat Kode |
 | Seattle Web 012720 | Dinasours |
@@ -18,12 +21,14 @@
 | Chicago Web 010620 | Fullstack Pancakes |
 | NYC Web FIDI 010620      | big git energy | 
 | Atlanta Web 010620 | Method Men | 
+| Dumbo SE 010620   | Green Light District |
 | DC DS 010620      | git commit -m 'ment issues' |
 | Austin Web 120919 | NoName |
 | DC SE 120919      | Binding Nemo |
 | NYC Web 120919    | Fork It | 
 | Seattle SE 120919 | ACE Software |
 | SF Web 120919      | Codaholics |
+| Dumbo SE 120919   | Pry Me a River |
 | NYC DS 111819   | matplotlibertytours |
 | Dumbo SE 111819   | A Pry Called Quest |
 | NYC SE 111819   | NameError |
