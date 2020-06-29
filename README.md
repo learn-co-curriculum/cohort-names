@@ -5,9 +5,11 @@
 | ----------------- | ------------------------------- |
 | Dumbo SE 042020   | French Pry with Gitchup |
 | SF Web 042020     | When in Doubt, # it Out |
+| Seattle Web 042020     | Breakout Room 8 |
 | Houston SE 042020 | CodersDeCorona |
 | Chicago SE 033020 | CODED-19 |
 | Austin Web 030920 | !! (Bangbang) |
+| Seattle Web 030920 | self.isolate |
 | Dumbo SE 030920   | Go Getters and Trend Setters |
 | DC SE 032020 | {browns}
 | DC SE 012720 | Live Fast Pry Young
