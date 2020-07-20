@@ -3,6 +3,7 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| DC DS 060120| Marisa's Rainbow Pie Charts|
 | Dumbo SE 042020   | French Pry with Gitchup |
 | SF Web 042020     | When in Doubt, # it Out |
 | Seattle Web 042020     | Breakout Room 8 |
