@@ -3,6 +3,7 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
+| DC DS 091420      | My anaconda3 don’t want NaN unless you got puns hun |
 | SF/SEA Web 071320     | You know I can't dance, I don't have any algo-rhythm|
 | SF Web 060120     | Code Big, Or Go Home |
 | DC DS 060120| Marisa's Rainbow Pie Charts|
